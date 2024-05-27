@@ -1,15 +1,16 @@
-#!/usr/bin/env python3
+from utils.coll_utils import Collider, filter_disallow_binstrings
+import time
 
-from coll import Collider, filter_disallow_binstrings
-import os,time
-T1= time.time()
-# 编译原始c代码
-temp = 'out_c_demo_temp.exe'
-
-os.system('g++ c_demo.c -o {}'.format(temp))
-
-with open(temp, 'rb') as tempfile:
-    compdata = bytearray(tempfile.read())
+TEST=True
+if TEST:
+    temp = 'download_script'
+    GOOD = 'download_script_good'
+    EVIL = 'download_script_evil'
+else:
+    temp = 'test.exe'
+    GOOD = 'good.exe'
+    EVIL = 'evil.exe'
+# 用于查找注入点
 def find_injection_points(compdata):
     pattern = b'%' * 128
     plus = ord('+')
@@ -17,65 +18,64 @@ def find_injection_points(compdata):
 
     first = None
     second = None
-    # 搜索连续的128个%字符，每次跳过128个字节
-    for i in range(0, len(compdata), 128):
+    # 搜索连续的64个%字符，每次跳过128个字节
+    for i in range(0, len(compdata), 64):
+        s = compdata[i:i + 128]
+        if s != pattern:
+            continue
 
-        if compdata[i:i+128] == pattern:
-            start_search=i
-            startchars=i
-            # 检查紧接着的字符是否为加号或减号
-            for target_char in [plus, minus]:
-                # 加号和减号预期的位置
-                for index in range(start_search, len(compdata),64):
+        for q in range(i, i + (64 * 3 + 2)):
+            if compdata[q] == plus or compdata[q] == minus:
+                startchars = q - (64 * 3)
+                if not first:
+                    first = i
+                    offset = i - startchars
+                else:
+                    second = startchars + offset
 
-                    if index < len(compdata) and compdata[index] == target_char:
-                            if not first:
-                                first = i
-                                start_search = index
-                                while(compdata[start_search]!=37):
-                                    start_search+=1
-                                startchars=start_search
-                                break
-                            else:
-                                second = startchars
-                            compdata[index] = 0  # 将找到的字符置为0
-                            return first, second  # 找到两个点就返回
+                compdata[q] = 0
+                break
 
     if not (first and second):
         raise Exception('error: did not find marker strings')
 
     return first, second
-
-
-first, second=find_injection_points(compdata)
-T2= time.time()
-collider = Collider(blockfilter=filter_disallow_binstrings([b'\0']))
-
+#获得seq_mid1,seq_mid2
 def get_append_content():
     # 根据获得的偏移量拼接碰撞块
     collider.bincat(compdata[:first])
     collider.safe_diverge()
-    c1, c2 = collider.get_last_coll()
-    return c1,c2
-c1,c2=get_append_content()
-T3= time.time()
-collider.bincat(compdata[first + 128:second] + c1 + compdata[second + 128:])#将第二块内存区域设置为相同
+    seq_mid1,seq_mid2 = collider.get_last_coll()
+    return seq_mid1,seq_mid2
 
 
+if __name__ == '__main__':
 
-# 写入good和evil程序
-program_good,program_evil = collider.my_get_collisions()
+    T1 = time.time()
+    # 读取文件
 
-GOOD = 'out_c_good.exe'
-EVIL = 'out_c_evil.exe'
+    with open(temp, 'rb') as tempfile:
+        compdata = bytearray(tempfile.read())
+    first, second = find_injection_points(compdata)
+    T2 = time.time()
+    # 获得seq_mid1,seq_mid2
+    collider = Collider(blockfilter=filter_disallow_binstrings([b'\0']))
+    seq_mid1,seq_mid2 = get_append_content()
+    T3 = time.time()
+    # 将第二块内存区域设置为相同
+    collider.bincat(compdata[first + 128:second] + seq_mid1 + compdata[second + 128:])
 
-with open(GOOD, 'wb') as good:
-    good.write(program_good)
+    # 写入good和evil程序
+    program_good, program_evil = collider.merge_M()
 
-with open(EVIL, 'wb') as evil:
-    evil.write(program_evil)
 
-os.remove(temp)
-T4 = time.time()
+    with open(GOOD, 'wb') as good:
+        good.write(program_good)
 
-print("total_time={}".format(T4-T3+T2-T1))
+    with open(EVIL, 'wb') as evil:
+        evil.write(program_evil)
+
+    T4 = time.time()
+    # 记得在linux中使用 chmod a+x 赋权
+    print("用时：{}".format(T4 - T3 + T2 - T1))
+

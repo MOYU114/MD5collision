@@ -24,8 +24,9 @@ int main(char** argv, int argc) {
 
 void good() {
    puts("good"); 
+   
 }
 
 void evil() {
-   puts("evil"); 
+    puts("evil");
 }
