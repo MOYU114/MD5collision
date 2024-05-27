@@ -1,8 +1,8 @@
 from utils.coll_utils import Collider, filter_disallow_binstrings
 import time
 
-TEST=True
-if TEST:
+IS_Linux=True
+if IS_Linux:
     temp = 'download_script'
     GOOD = 'download_script_good'
     EVIL = 'download_script_evil'
