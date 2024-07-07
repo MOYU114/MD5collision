@@ -35,7 +35,6 @@ def filter_disallow_binstrings(strs):
 # 调用fastcoll，生成两块碰撞块b0，b1
 def collide(ihv):
     back = os.getcwd()
-    # os.chdir(FASTCOLL_PLACE)
 
     ivhex = binascii.hexlify(ihv).decode()
 
@@ -61,7 +60,7 @@ def collide(ihv):
 
 # 将攻击封装成类，便于外部调用
 
-class Collider:
+class myColl:
     def __init__(self, data=b'', pad=b'\0', blockfilter=lambda x: True):
         self.seq = [b'']
         self.div = []
@@ -124,7 +123,6 @@ class Collider:
         '''适用于不需要pad进行填充的情况'''
         self.assert_aligned()
         self.diverge(pad, blockfilter)
-
 
     def merge_M(self):
         '''拼接M与M’ '''

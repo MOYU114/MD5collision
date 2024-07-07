@@ -1,0 +1,1178 @@
+C:\Work\anaconda\python.exe E:\college\大三下\密码分析与实践\project\project\my_attack.py
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........
+Generating second block: W..
+用时：1.8193316459655762
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S11.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: S11.................
+用时：3.854931354522705
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......
+Generating second block: S01...........
+用时：2.0463340282440186
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S00.
+用时：0.4572165012359619
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: S11...
+用时：3.3595879077911377
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: S01...
+用时：1.6555016040802002
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .................................
+Generating second block: S00...............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........................................................................................................
+Generating second block: W..
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: S11.................................................................
+用时：39.12710189819336
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .....
+Generating second block: S01.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........................
+Generating second block: S01...........
+用时：6.4524149894714355
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .................
+Generating second block: S10.........................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S00...............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..............
+Generating second block: S11.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........
+Generating second block: S10...............................................................................
+用时：12.889461040496826
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......
+Generating second block: S01.....
+用时：0.9246795177459717
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........
+Generating second block: S10.......
+用时：1.8612291812896729
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......
+Generating second block: W.................................
+用时：1.9029412269592285
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S10.......................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......................
+Generating second block: S11.
+用时：5.871091842651367
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........
+Generating second block: W.
+用时：3.0444493293762207
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..................................
+Generating second block: W..........................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........................
+Generating second block: S00..............................
+用时：16.201719284057617
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......................................................
+Generating second block: S00...........
+用时：14.209136009216309
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: S00.................
+用时：1.6470763683319092
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........................................................................
+Generating second block: S00.
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........................
+Generating second block: S11.......................................................................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........................................................................
+Generating second block: S11.......................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......................................................................................
+Generating second block: S11.........
+用时：60.86776852607727
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........
+Generating second block: W.............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........................
+Generating second block: S00...
+用时：8.325511455535889
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............................................................................................................
+Generating second block: S10.........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..............
+Generating second block: S00........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .................
+Generating second block: W...........................
+用时：36.108060121536255
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..................
+Generating second block: S01..
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S00..........................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........
+Generating second block: S10.........
+用时：7.420472621917725
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S10.......................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........
+Generating second block: S01..
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10...........................
+用时：4.943167448043823
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........................................
+Generating second block: S10.........................................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................
+Generating second block: W...................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .....................................................
+Generating second block: S11.........
+用时：31.388721704483032
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........
+Generating second block: S00....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....................................
+Generating second block: W...........
+用时：10.606909036636353
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S11.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: W....................
+用时：1.9758706092834473
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S11.............................................................................................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................................................................................
+Generating second block: S01...........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................................
+Generating second block: W..............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............
+Generating second block: S10...........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: S01.
+用时：42.16188359260559
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: S00..............
+用时：2.429072618484497
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S00....
+用时：0.8205909729003906
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....................
+Generating second block: S11.....................
+用时：5.270307302474976
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S11.......
+用时：1.0473628044128418
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .....................................................................................................................................................................................
+Generating second block: S00...
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .................
+Generating second block: S01......................................................
+用时：49.47249221801758
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............................
+Generating second block: S01.....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................................................................................
+Generating second block: S11...........................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............
+Generating second block: S10...................................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..................................................
+Generating second block: W..........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .................
+Generating second block: S01..
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............................................................
+Generating second block: S10.................................................
+用时：63.72930073738098
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......................................................................
+Generating second block: S10...........................................
+用时：15.608641147613525
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............
+Generating second block: S00.....
+用时：3.481055498123169
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: W...
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S10.
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S10.
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........
+Generating second block: S00.................
+用时：5.948337554931641
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S01.....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S01.....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S01.....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: W....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .............
+Generating second block: S00.........................
+用时：5.840978145599365
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......
+Generating second block: S11.......................
+用时：2.139927625656128
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S01.........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: S11...........................................................................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S10...............................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S11.......
+用时：5.167219638824463
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........................................................................................
+Generating second block: S10...........................................
+用时：22.798906564712524
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S11...
+用时：0.4595530033111572
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10.
+用时：0.26361536979675293
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................
+Generating second block: S00............................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................................................
+Generating second block: S11.....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........................
+Generating second block: S10...............
+用时：30.227132558822632
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: S00....
+用时：1.0088047981262207
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S00..
+用时：0.3185901641845703
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........................
+Generating second block: S01.....
+用时：7.592202425003052
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: S00..........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................................................
+Generating second block: S10...........
+用时：16.253770351409912
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .....................
+Generating second block: S10.
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .................
+Generating second block: S10.............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................
+Generating second block: S11.....
+用时：14.152067184448242
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........
+Generating second block: S11.........
+用时：3.4371352195739746
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S11.........
+用时：0.7435407638549805
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............................................................................................
+Generating second block: S11...........................................................
+用时：22.7256076335907
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .............................
+Generating second block: W..............
+用时：7.300486326217651
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S01....
+用时：0.8210935592651367
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: S01..
+用时：1.0764248371124268
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................
+Generating second block: S11...........
+用时：4.255827188491821
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S10.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S10.......
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S10.
+用时：2.2428665161132812
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........
+Generating second block: S11...................
+用时：2.2864837646484375
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S11.................
+用时：1.684187889099121
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....................................................................
+Generating second block: W..................
+用时：12.991458415985107
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......................................
+Generating second block: W........
+用时：7.659463405609131
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................................................
+Generating second block: S01...............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......
+Generating second block: W.
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S00.....
+用时：15.310585021972656
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...............................
+Generating second block: S11.
+用时：6.040477991104126
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S10.............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W......
+用时：1.004551887512207
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..............
+Generating second block: S01.....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........................................................................
+Generating second block: S10.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........
+Generating second block: W..............................
+用时：23.127553462982178
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........................
+Generating second block: S01...
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S11.
+用时：7.545403718948364
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...................
+Generating second block: S10.............................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......................................
+Generating second block: S11...........................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................................
+Generating second block: S11.......
+用时：25.06717300415039
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................
+Generating second block: S11.....................
+用时：3.4980928897857666
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...............
+Generating second block: S10.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................
+Generating second block: S01......
+用时：5.131141424179077
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S01.....................
+用时：0.741692066192627
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......................
+Generating second block: S00....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........
+Generating second block: S10.........................
+用时：7.6640706062316895
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S11.....................................
+用时：0.6653647422790527
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............................
+Generating second block: S00................
+用时：7.657257556915283
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .....................................
+Generating second block: W.........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..................................................................................................
+Generating second block: W...
+用时：36.494503021240234
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S11.........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....................
+Generating second block: S00..........
+用时：7.193803787231445
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: S10...................................................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......
+Generating second block: S00.....
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10.....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10.....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10.....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10.....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10.....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......
+Generating second block: S00..........................
+用时：7.742334842681885
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: S00.................
+用时：3.4362409114837646
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................
+Generating second block: S11...
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S10...............................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................
+Generating second block: S10.............................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ........
+Generating second block: S01.
+用时：12.162486791610718
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .......................
+Generating second block: S10.......
+用时：6.826131343841553
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S11...............................................
+用时：0.6467273235321045
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: S10...........
+用时：0.14433908462524414
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .....
+Generating second block: W.....
+用时：2.5760960578918457
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........................
+Generating second block: W....
+用时：7.172369718551636
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........
+Generating second block: S00.
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........
+Generating second block: S00.
+用时：3.284113883972168
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............
+Generating second block: S00....................
+用时：4.4641828536987305
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...................................
+Generating second block: S10...
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....................................
+Generating second block: S11.............
+用时：16.962533712387085
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......
+Generating second block: S01....................................................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .....
+Generating second block: S00.......
+用时：4.96862006187439
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: S10...............................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..........
+Generating second block: W..........................
+用时：2.606130838394165
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....................
+Generating second block: W.......
+用时：5.2644336223602295
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .............
+Generating second block: S11.....
+用时：4.704363584518433
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................................................................................................................................................
+Generating second block: S11...
+用时：34.12458372116089
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S01..................
+用时：1.3083949089050293
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..
+Generating second block: W...........
+用时：0.23653817176818848
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .............
+Generating second block: W..........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .........................................................................................
+Generating second block: S11...
+用时：21.68121099472046
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S11...
+用时：1.085325002670288
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............................
+Generating second block: S00.........
+用时：7.005506753921509
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...
+Generating second block: S00.........
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .............................
+Generating second block: W.........
+用时：11.284914493560791
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ......................................
+Generating second block: S00........
+用时：9.344157934188843
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...........
+Generating second block: S01...............
+用时：4.014079570770264
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ................
+Generating second block: S11.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ..............................................................
+Generating second block: W...............
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ...................
+Generating second block: S11.................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S00...............
+用时：25.47805619239807
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S11...........................
+用时：0.8748154640197754
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: .
+Generating second block: W....................
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ............
+Generating second block: S10.
+MD5 collision generator v1.5
+by Marc Stevens (http://www.win.tue.nl/hashclash/)
+
+Generating first block: ....
+Generating second block: S10.........................
+用时：5.104282855987549
+第1次：1.819332
+第2次：3.854931
+第3次：2.046334
+第4次：0.457217
+第5次：3.359588
+第6次：1.655502
+第7次：39.127102
+第8次：6.452415
+第9次：12.889461
+第10次：0.924680
+第11次：1.861229
+第12次：1.902941
+第13次：5.871092
+第14次：3.044449
+第15次：16.201719
+第16次：14.209136
+第17次：1.647076
+第18次：60.867769
+第19次：8.325511
+第20次：36.108060
+第21次：7.420473
+第22次：4.943167
+第23次：31.388722
+第24次：10.606909
+第25次：1.975871
+第26次：42.161884
+第27次：2.429073
+第28次：0.820591
+第29次：5.270307
+第30次：1.047363
+第31次：49.472492
+第32次：63.729301
+第33次：15.608641
+第34次：3.481055
+第35次：5.948338
+第36次：5.840978
+第37次：2.139928
+第38次：5.167220
+第39次：22.798907
+第40次：0.459553
+第41次：0.263615
+第42次：30.227133
+第43次：1.008805
+第44次：0.318590
+第45次：7.592202
+第46次：16.253770
+第47次：14.152067
+第48次：3.437135
+第49次：0.743541
+第50次：22.725608
+第51次：7.300486
+第52次：0.821094
+第53次：1.076425
+第54次：4.255827
+第55次：2.242867
+第56次：2.286484
+第57次：1.684188
+第58次：12.991458
+第59次：7.659463
+第60次：15.310585
+第61次：6.040478
+第62次：1.004552
+第63次：23.127553
+第64次：7.545404
+第65次：25.067173
+第66次：3.498093
+第67次：5.131141
+第68次：0.741692
+第69次：7.664071
+第70次：0.665365
+第71次：7.657258
+第72次：36.494503
+第73次：7.193804
+第74次：7.742335
+第75次：3.436241
+第76次：12.162487
+第77次：6.826131
+第78次：0.646727
+第79次：0.144339
+第80次：2.576096
+第81次：7.172370
+第82次：3.284114
+第83次：4.464183
+第84次：16.962534
+第85次：4.968620
+第86次：2.606131
+第87次：5.264434
+第88次：4.704364
+第89次：34.124584
+第90次：1.308395
+第91次：0.236538
+第92次：21.681211
+第93次：1.085325
+第94次：7.005507
+第95次：11.284914
+第96次：9.344158
+第97次：4.014080
+第98次：25.478056
+第99次：0.874815
+第100次：5.104283
+
+进程已结束,退出代码0
